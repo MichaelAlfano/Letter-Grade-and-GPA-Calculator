@@ -1,17 +1,3 @@
-#Instructions:
-#When we read code and predict its output, 
-#it is called tracing code.
-
-#For this lesson, you will come up with your own challenging 
-#algorithm for other students to trace. 
-#It must contain at least 5 if statements and 
-#use at least one AND or OR boolean condition.
-
-#For this challenge try reading 3 or 4 of your classmates' 
-#code—trace the code and predict what it outputs, 
-#then run it in the Sandbox to see if you got it right.
-
-
 #Number grade to Letter grade solver
 numbergrade = int(input("Enter your number grade:"))
 
